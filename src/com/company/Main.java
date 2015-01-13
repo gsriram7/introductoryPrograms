@@ -11,6 +11,8 @@ public class Main {
         Program5.printPyrimid(5);
         Program6.printDiamond(3);
         Program7.printDiamondWithName(3, "Selva");
+        Program8.printMultiplesOf3and5();
+        Program9.generate(30);
     }
 
     public static void program1(){
